@@ -1,5 +1,4 @@
 
-
 const numArr = []
 
 while(true) {
